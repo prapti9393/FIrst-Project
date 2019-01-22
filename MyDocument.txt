@@ -1,4 +1,8 @@
 Hi,
 This is inorder to teach my wife how github works.
 I love Prapti.
+<<<<<<< .merge_file_a01076
 I Love India
+=======
+i love kush
+>>>>>>> .merge_file_a14744
